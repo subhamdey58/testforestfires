@@ -1,0 +1,9 @@
+scikit-learn
+ipykernel
+numpy
+pandas
+bs4
+streamlit
+flask
+seaborn
+imblearn
